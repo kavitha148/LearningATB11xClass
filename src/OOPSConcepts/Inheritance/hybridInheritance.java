@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPSConcepts.Inheritance;
 
 public class hybridInheritance {
     /*

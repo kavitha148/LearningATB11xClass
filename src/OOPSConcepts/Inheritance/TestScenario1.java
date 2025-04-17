@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPSConcepts.Inheritance;
 
 public class TestScenario1 extends Single_inheritance_Example {
 

@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPSConcepts.Inheritance;
 
 public class Inheritance_Example {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPSConcepts.Polymorphism;
 
 public class method_overriding_automation {
 
