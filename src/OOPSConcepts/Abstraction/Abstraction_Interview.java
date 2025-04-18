@@ -21,7 +21,7 @@ public class Abstraction_Interview {
     }
    // class test extends A1, B1--> not possible
 
-    class test implements T1,t1{
+    class test implements T1,t1{ // muliple inheritance is ossible only thru interface
 
     }
 
